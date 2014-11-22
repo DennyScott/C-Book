@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+/**
+ * Main function to run Calculator
+ **/
 int main() {
 	cout << "7 + 3 = " << 7 + 3 << endl;
 	cout << "7 - 3 = " << 7 - 3 << endl;
